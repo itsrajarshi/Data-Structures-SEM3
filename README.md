@@ -29,3 +29,9 @@ This repository contains **Data Structures lab programs and assignments** comple
 ```bash
 gcc filename.c -o output
 ./output
+```
+### ✅ For Python Programs:
+```bash
+python filename.py
+```
+
